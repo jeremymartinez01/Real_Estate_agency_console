@@ -1,9 +1,26 @@
 # Real_Estate_agency_console
-En Agencia se encuentran los usuarios y las propiedades
+This program implements the basic operations of a real state agency
 
-Administrador= Usuario: admin, Password: admin
-Cliente 1= Usuario: eauria, Password: 123
-Agente 1=Usuario: wgcotera, Password: aeiou
-Agente 2=Usuario: jjmartinez, Password: a1e2
+It Has 3 types of users: Administrator, client and agent
 
-En el paquete sistema, se encuentra el Main desde ahí se inicia
+- Administrator credentials #1
+
+  * User: admin
+  * Password: admin
+
+- Client credentials #1
+
+  * User: eauria
+  * Password: 123
+
+- Agent credentials #1
+
+  * User: wgcotera
+  * Password: aeiou
+
+- Agent credentials #2
+
+  * User: jjmartinez
+  * Password: a1e2
+
+In the package "sistema" is the Main class to Run the project
